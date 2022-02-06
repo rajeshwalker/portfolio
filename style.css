@@ -1,0 +1,194 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+}
+#bg-image{
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: linear-gradient( rgba(17, 16, 19, 0.6),  rgba(12, 13, 14, 0.6)), url(./jom.jpg);
+    height: 100vh;
+}
+#text{
+    text-align: center;
+    color:white;
+    width: 50%;
+    margin-left: 350px;
+}
+#text h1{
+    font-family: Arial Black;
+    font-size: 40px;
+    padding-top:280px;
+}
+#text p{
+    font-size: 30px;
+    font-family: Microsoft YaHei Light;
+}
+#center-align{
+    width: 60%;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+#head{
+    color: #22A39F;
+    font-size: 60px;
+    padding-top: 20px;
+    font-weight: lighter;
+    font-family: Calibri Light;
+    text-align: center;
+    
+}
+#desc{
+    color: black;
+    font-family: Calibri Light;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#box1{
+    width: 35%;
+    margin-right: 2%;
+    float: left;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    
+}
+#title{
+    /* margin-left: 20px; */
+    color:#22A39F;
+    font-size: 30px;
+    font-family: Calibri Light;
+}
+#para{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 17px;
+}
+#box2{
+    
+    width: 32%;
+    float: left;
+}
+#box2 img{
+      width: 80%;
+    margin-top: 50px;
+    margin-left: 10px;
+    border: 10px solid #F3EFE0;
+    border-radius: 50%;
+}
+#box3{
+    width: 30%;
+    float:right;
+}
+#tab{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-family: Calibri Light;
+}
+th{
+    text-align: left;
+}
+tr{
+    font-size: 20px;
+}
+#button{
+    background-color: #1B95E0;
+    width: 60px;
+    padding: 8px;
+    margin-left: 10px;
+    display: inline;
+    border-radius: 10px;
+}
+#button a{
+    color: white;
+}
+#banner{
+    clear: both;
+    background-color: #F3EFE0;
+    height:720px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+#projects_div{
+    width: 100%;
+    background-color: #F3EFE0;
+}
+#workdone tr th{
+    width: 350px;
+    height: auto;
+}
+.place{
+    color: #22A39F;
+    margin-bottom: 30px;
+}
+#skills tr th{
+    color: #22A39F ;
+    width: 20%;
+    
+}
+#skills th{
+    padding-right: 80px;
+}
+#img1{
+    width: 48%;
+    float: left;
+}
+#img1 img{
+    width: 100%;
+    height: 35%;
+    margin-top: 8%;
+
+}
+#img2{
+    width: 48%;
+    float: right;
+}
+#img2 img{ 
+    width: 100%;
+    height: 35%;
+    margin-top: 8%;
+}
+#contact{
+    background-color: #434242;
+    width: 100%;
+     height: 500px;
+}
+
+.contact{
+    color: white;
+    font-family: calibri light;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.lines{
+    color: #727878;
+    text-align: center;
+    font-family: calibri light;
+    font-size: 20px;
+     margin-bottom: 50px
+}
+#contact a {
+    color: white;
+    text-decoration: none;
+    font-family: calibri light;
+    font-size: 18px;
+    padding: 50px;
+    margin-left: 50px;
+
+}
+#icon2 a i {
+    background-color: #1877F2;
+    margin-left: 250px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+
+
